@@ -7,10 +7,10 @@ Spark is a distributed computing platform for working with Big Data. It achieves
 
 As per Apache Spark official website spark has below advantages over other available tools (hadoop, mapreduce) in market:
 
-  •	Speed: Run workloads 100x faster [for both batch and streaming data]
-  •	Ease of Use: Write applications quickly in Java, Scala, Python, R, and SQL.
-  •	Generality: Combine SQL, streaming, and complex analytics.
-  •	Runs Everywhere: Spark runs on Hadoop, Apache Mesos, Kubernetes, standalone, or in the cloud. It can access diverse data sources.
+- Speed: Run workloads 100x faster [for both batch and streaming data]
+- Ease of Use: Write applications quickly in Java, Scala, Python, R, and SQL.
+- Generality: Combine SQL, streaming, and complex analytics.
+- Runs Everywhere: Spark runs on Hadoop, Apache Mesos, Kubernetes, standalone, or in the cloud. It can access diverse data sources.
 
 **Contents:**
 1.	Apache Spark basics
